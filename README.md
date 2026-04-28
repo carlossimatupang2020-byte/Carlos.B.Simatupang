@@ -12,7 +12,7 @@
 Saya adalah mahasiswa program studi Teknologi Rekayasa Perangkat Lunak (TRPL) yang memiliki ketertarikan mendalam pada pengembangan web full-stack dan arsitektur basis data. Saya memiliki dedikasi untuk menerjemahkan alur sistem yang kompleks menjadi antarmuka pengguna yang terstruktur dan memanjakan mata.
 
 - 📍 **Alamat:** Tanjung Piayu, Sei Beduk, Batam, Indonesia
-- 📧 **Email:** [Alamat Email Kamu]
+- 📧 **Email:** [carlossimatupang2020@gmail.com]
 
 ## 🎓 Riwayat Pendidikan
 - **Politeknik Negeri Batam** (Sep 2025 - Sekarang)
@@ -21,7 +21,7 @@ Saya adalah mahasiswa program studi Teknologi Rekayasa Perangkat Lunak (TRPL) ya
   *[IPS]*
 
 ## 🚀 Riwayat Proyek
-- **AKSARA / KERNAS (Kerja Naskah Surat)** | *Full-Stack Development*
+- **KERNAS (Kerja Naskah Surat)** | *Full-Stack Development*
   Sistem digitalisasi untuk manajemen dan distribusi Surat Keputusan (SK) secara efisien di lingkungan akademik.
 - **PBL Semester 1: Aplikasi "Ruang"** | *Frontend Developer*
   Sistem manajemen keuangan terpadu untuk Rukun Tetangga/Rukun Warga (RT/RW). Bertanggung jawab penuh atas implementasi antarmuka yang responsif.
