@@ -21,10 +21,10 @@ Saya adalah mahasiswa program studi Teknologi Rekayasa Perangkat Lunak (TRPL) ya
   *[IPS]*
 
 ## 🚀 Riwayat Proyek
-- **KERNAS (Kerja Naskah Surat)** | *Full-Stack Development*
-  Sistem digitalisasi untuk manajemen dan distribusi Surat Keputusan (SK) secara efisien di lingkungan akademik.
-- **PBL Semester 1: Aplikasi "Ruang"** | *Frontend Developer*
+- **PBL Semester 1: RUANG (Rekapitulasi Uang)** | *Frontend Developer*
   Sistem manajemen keuangan terpadu untuk Rukun Tetangga/Rukun Warga (RT/RW). Bertanggung jawab penuh atas implementasi antarmuka yang responsif.
+  - **PBL Semester 2: KERNAS (Kerja Elektronik Naskah Surat)** | *Full-Stack Development*
+  Sistem digitalisasi untuk manajemen dan distribusi Surat Keputusan (SK) secara efisien di lingkungan akademik.
 
 ## 💻 Skillset
 
